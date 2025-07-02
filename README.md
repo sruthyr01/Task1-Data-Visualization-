@@ -17,7 +17,8 @@ Transformed dataset using pandas to align years as rows and genders as columns.
 ### 5. Data Visualization
 Plotted a grouped bar chart using matplotlib.
 X-axis: Years (2019–2023)
-Y-axis: Total male population & Total Female population 
+Y-axis: Total male population & Total Female population. 
+Another plot include Age wise population in the year 2023.
 ## 📈 Key Findings
 
 1. The male population in India was consistently higher than the female population across all four years.
